@@ -1,1 +1,1 @@
-Hello
+Friendly and driven full-time student currently studying Software Engineering BSc. I undertook a 2-week work experience at EcommIT where I showed my enthusiasm for web development and used Java, CSS and HTML scripting languages. Keen to utilise my skills to create practical products to provide a great user experience!
