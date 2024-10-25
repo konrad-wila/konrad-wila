@@ -1,1 +1,1 @@
-Currently studying bachelor's in Software Engineering. Undertook work experience at a web development company and participate in hackathons. Skilled and certified in both AWS and Azure clouds. Check out my coding skills in the Leetcode github repo.
+Currently on placement at Northrop Grummman while studying my bachelor's in Software Engineering. Previously worked at S&P Global's cloud team. Skilled and certified in both AWS and Azure clouds.
